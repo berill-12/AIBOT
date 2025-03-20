@@ -1,0 +1,2 @@
+0 gerçek kedi
+1 yapay zeka kedi
